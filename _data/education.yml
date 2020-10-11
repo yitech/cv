@@ -1,10 +1,19 @@
 - layout: left
-  name: Harvard University
-  dates: 2010 - 2013
-  qualification: BSc Computer Science
+  name: National Chiao Tung University
+  dates: Sept 2014 – June 2016
+  qualification: Master of Statistics
   quote: >
-    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+    National Chiao Tung University is a public research university located in Hsinchu, Taiwan. It is one of Taiwan's leading universities.
   description: | # this will include new lines to allow paragraphs
-    During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+    During my time of NCTU I specialize in <mark>Probability and Statistical Computing</mark>, which is a branch of Computer Science and Statistics.  I have good understanding of fundamental science and can apply the cutting-edge paper efficiently.
+    
+    My [thesis](https://etd.lib.nctu.edu.tw/cgi-bin/gs32/tugsweb.cgi/ccd=cd1UG5/record?r1=1&h1=2#XXXX) is a study of <mark>Dynamic Weighted Monto Carlo Markov Chain</mark>(MCMC).  MCMC is a widely used statistical computing method.  However, the inefficient convergence property is notorious in application.  We purpose a weighted scheme of MCMC to enhance the convergence and provide a numerical and mathematical proof of the efficientcy.
+    
+- layout: left
+  name: National University of Kaohsiung
+  dates: Sept 2010 – June 2014
+  qualification: BSc Applied Mathematics
+  quote: >
+    National University of Kaohsiung is a national university located in Kaohsiung, Taiwan.
+  description: | # this will include new lines to allow paragraphs
+    I got into mathematics in these four years.  In this period, I have studied much different kind of math, both abstract and applied math included.  It's the seedbed of the engineer for me.

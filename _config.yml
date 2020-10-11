@@ -3,48 +3,46 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Yi Te Chang
+title: Computer Vision Engineer
+email: coastq22889@icloud.com
+website: https://yitech.github.io/
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+# twitter_username: facespics
+github_username:  yitech
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+# instagram_username: chillwildlife
+linkedin_username: yite-chang
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
-# about_title: About Me
+about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
-
+  Hi, my name's Yi Te and I'm a cutting-edge algorithm developer, especially for <mark>computer vision</mark>.  I have 3+ years working experience on vision algorithm and related programming.  As well as a good consultant in the teamwork.
+  I'm most skill in <mark>C++</mark> and <mark>Python</mark>
 # Projects Section
-# projects_title: Projects
+projects_title: Projects
 
 # Experience Section
-# experience_title: Experience
+experience_title: Experience
 
 # Education Section
-# educaton_title: Education
+education_title: Education
 
 # More Section
-# more_title: A Little More About Me
+more_title: Skills
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+   - deep learning solutions, including feature detection, feature extraction, object detection, object recognition, object tracking and image segmentation.
+   - image processing algorithms, including image matching, space/time domain analysis, morphology, ranging and depth, etc.
+   - point cloud processing, including feature estimation, point cloud registration, surface reconstruction, 3D perception.
+   - statistical optimization, including EM algorithm, Monto Carlo method, reinforcement learning, Bayesian optimization, genetic algorithm.
+   - data cleaning, data preprocessing, and data visualization.
 
 # Footer
 footer_show_references: true

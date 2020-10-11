@@ -1,9 +1,15 @@
 - layout: left
-  company: The Boring Company
-  link: boringcompany.com
-  job_title: Senior Network System Administrator
-  dates: November 2017 - Present
-  quote: >
-   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+  company: ASM Pacific
+  link: https://www.asmpacific.com/
+  job_title: Software Engineer
+  dates: May 2018 - Present    
   description: | # this will include new lines to allow paragraphs
-    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+    This position is responsible for developing the solutions of computer vision.  Overall, I takes about 20% on requirement engineering, 50% on paper work, including paper study, proof of concept and deriving the mathematical formula.  The remaining 30% is used for architect and implementation.  I think this position needs good communication and sense of mathematics.  A good communication can pool different kind of sense together to find the best solution, and a good sense of mathematics provide an efficient diagnosis while facing issues.
+    
+- layout: left
+  company: Innolux
+  link: http://www.innolux.com/
+  job_title: AI Engineer
+  datas: Oct 2017 – April 2018
+  description: | # this will include new lines to allow paragraphs
+    Applying the deep learning and machine learning algorithm, develop the foresighted AOI system.  I learnt the image processing, image recognition and integrate AI model into AOI system.

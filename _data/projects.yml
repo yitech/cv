@@ -1,8 +1,35 @@
 - layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
+  name: 3D Contour Trajectories Reconstruction through Multiple Views
+  # link: github.com/sproogen
+  # github: sproogen/resume-theme
   quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+    Nominated by ASM 2020 innovative project, RD & Lead
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    The camera pictures the wires from different sides.  The project goal is to reconstruct the 3D wires' trajectories though different wires' image information.  In this project, I not only work on the algorithm, but also participant the whole AOI process.  The problem is regarded as an "innovation" because it's not just a 3D reconstrucion problem.  The difficulties include <mark>multiple contours overlap in 2D</mark> and <mark>not observe 3D trajectories directly</mark>.  Eventually, we came out a sequence of brilliant skills to shoot these issues.
+
+- layout: top-middle
+  name: 6 Axis Robot Arm Control through RiDar
+  # link: github.com/sproogen
+  # github: sproogen/resume-theme
+  quote: >
+    RD
+  description: | # this will include new lines to allow paragraphs
+    The LiDar scan install on the Automatic Vehicle.  The vehicle aim to a target object which is placed a known position with unknown place error.  We are going to control the robot arm such that the robot arm can precisely pick and place the interested object in a correct way. We deal with this project through a bunch of point cloud processing.  Most interesting issue is to estimate the 3D rotation feature of the LiDar scan since it involves some solid math work.
+    
+- layout: top-middle
+  name: Agent-Based Job-Shop Scheduling Optimization
+  # link: github.com/sproogen
+  # github: sproogen/resume-theme
+  quote: >
+    RD
+  description: | # this will include new lines to allow paragraphs
+    This is a popular topic for a smart factory.  The agents are able to transfer the material into different processes.  Try to come out a general algorithm to optimize the scheduling of agents.  In this project, we use <mark>Directed Acyclic Graph</mark> to describe the process order of scheduling, and use a <mark>min-flow</mark> and <mark>Monto Carlo tree search</mark> to find a near-optimal scheduling in the real application.  Besides, we also have some contribution of <mark>Reinforcement Learning</mark> in this project.
+ 
+- layout: top-middle
+  name: Field of View Path Planning Optimization
+  # link: github.com/sproogen
+  # github: sproogen/resume-theme
+  quote: >
+    RD
+  description: | # this will include new lines to allow paragraphs
+    The Feild of View(FoV) is described as the extent of the observable world that is seen at any given moment.  The project target is going to optimize the time cost of inspection, such that the camera can picture all the inspector in the FoVs.  In the project, I encode the solution of a sequence of inspected objects and apply <mark>Genetic Optimization</mark> to improve the FoV performance.
