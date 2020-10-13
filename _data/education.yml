@@ -7,7 +7,7 @@
   description: | # this will include new lines to allow paragraphs
     During my time of NCTU I specialize in <mark>Probability and Statistical Computing</mark>, which is a branch of Computer Science and Statistics.  I have good understanding of fundamental science and can apply the cutting-edge paper efficiently.
     
-    My [thesis](https://etd.lib.nctu.edu.tw/cgi-bin/gs32/tugsweb.cgi/ccd=cd1UG5/record?r1=1&h1=2#XXXX) is a study of <mark>Dynamic Weighted Monto Carlo Markov Chain</mark>(MCMC).  MCMC is a widely used statistical computing method.  However, the inefficient convergence property is notorious in application.  We purpose a weighted scheme of MCMC to enhance the convergence and provide a numerical and mathematical proof of the efficientcy.
+    My [thesis](https://ir.nctu.edu.tw/handle/11536/138580) is a study of <mark>Dynamic Weighted Monto Carlo Markov Chain</mark>(MCMC).  MCMC is a widely used statistical computing method.  However, the inefficient convergence property is notorious in application.  We purpose a weighted scheme of MCMC to enhance the convergence and provide a numerical and mathematical proof of the efficientcy.
     
 - layout: left
   name: National University of Kaohsiung

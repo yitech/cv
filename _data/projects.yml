@@ -1,7 +1,7 @@
 - layout: top-middle
   name: 3D Contour Trajectories Reconstruction through Multiple Views
-  # link: github.com/sproogen
-  # github: sproogen/resume-theme
+  link: https://yitech.github.io/portfolio/3D-Contour-Trajectories-Reconstruction-through-Multiple-Views/
+  github: https://github.com/yitech/contour-reconstruction
   quote: >
     Nominated by ASM 2020 innovative project, RD & Lead
   description: | # this will include new lines to allow paragraphs
