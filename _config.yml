@@ -22,7 +22,7 @@ linkedin_username: yite-chang
 
 # About Section
 about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Yi Te and I'm a cutting-edge algorithm developer, especially for <mark>computer vision</mark>.  I have 3+ years working experience on vision algorithm and related programming.  As well as a good consultant in the teamwork.
   I'm most skill in <mark>C++</mark> and <mark>Python</mark>
