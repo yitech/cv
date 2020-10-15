@@ -8,7 +8,7 @@
     The camera pictures the wires from different sides.  The project goal is to reconstruct the 3D wires' trajectories though different wires' image information.  In this project, I not only work on the algorithm, but also participant the whole AOI process.  The problem is regarded as an "innovation" because it's not just a 3D reconstrucion problem.  The difficulties include <mark>multiple contours overlap in 2D</mark> and <mark>not observe 3D trajectories directly</mark>.  Eventually, we came out a sequence of brilliant skills to shoot these issues.
 
 - layout: top-middle
-  name: 6 Axis Robot Arm Control through RiDar
+  name: 6 Axis Robot Arm Control through LiDar
   # link: github.com/sproogen
   # github: sproogen/resume-theme
   quote: >
