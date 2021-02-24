@@ -1,10 +1,18 @@
 - layout: left
+  company: Lucid
+  link: https://lucidinside.com/
+  job_title: AI Developer
+  dates: Oct 2010 - Present
+  description: |
+    I am responsible for 3D computer vision analysis and audio analysis.  For 3D computer vision, I design the potential features of 3D photo application, prove of concept and implementation.  For audio analysis, I mainly work on audio semantic segmentation.  It is a diversified and brain-storming job.
+
+- layout: left
   company: ASM Pacific
   link: https://www.asmpacific.com/
   job_title: Software Engineer
-  dates: May 2018 - Present    
+  dates: May 2018 - Oct 2010    
   description: | # this will include new lines to allow paragraphs
-    This position is responsible for developing the solutions of computer vision.  Overall, I takes about 20% on requirement engineering, 50% on paper work, including paper study, proof of concept and deriving the mathematical formula.  The remaining 30% is used for architect and implementation.  I think this position needs good communication and sense of mathematics.  A good communication can pool different kind of sense together to find the best solution, and a good sense of mathematics provide an efficient diagnosis while facing issues.
+    This position is responsible for developing the solutions of computer vision.  Overall, I take about 20% on requirement engineering, 50% on paper work, including paper study, proof of concept and deriving the mathematical formula.  The remaining 30% is used for architect and implementation.  I think this position needs good communication and sense of mathematics.  A good communication can pool different kind of senses together to find the best solution, and a good sense of mathematics provide an efficient diagnosis while facing issues.
     
 - layout: left
   company: Innolux
@@ -12,4 +20,4 @@
   job_title: AI Engineer
   datas: Oct 2017 – April 2018
   description: | # this will include new lines to allow paragraphs
-    Applying the deep learning and machine learning algorithm, develop the foresighted AOI system.  I learnt the image processing, image recognition and integrate AI model into AOI system.
+    Applying the deep learning and machine learning algorithm, develop the foresighted AOI system.  I learnt image processing, image recognition and integrate AI model into AOI system.
