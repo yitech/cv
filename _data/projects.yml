@@ -3,7 +3,7 @@
   # link:
   quote: RD & Lead
   description: |
-    Optimize the 3D Photo rendering process.  There are a variety of processes to generate a beautiful 3D photo, including depth generation, color inpainting, sementic segmentation, mesh generation, and rasterization process.
+    Optimize the 3D Photo rendering process.  There are a variety of processes to generate a beautiful 3D photo, including depth generation, inpainting, sementic segmentation, mesh generation, and rasterization. Each process has its issues, and is related to other processes.
 
 - layout: top-middle
   name: 3D Contour Trajectories Reconstruction through Multiple Views
