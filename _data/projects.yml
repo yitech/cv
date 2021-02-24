@@ -1,4 +1,11 @@
 - layout: top-middle
+  name: LucidPix 3D Photo Rendering Optimization
+  # link:
+  quote: RD & Lead
+  description: |
+    Optimize the 3D Photo rendering process.  There are a variety of processes to generate a beautiful 3D photo, including depth generation, color inpainting, sementic segmentation, mesh generation, and rasterization process.
+
+- layout: top-middle
   name: 3D Contour Trajectories Reconstruction through Multiple Views
   link: https://yitech.github.io/portfolio/3D-Contour-Trajectories-Reconstruction-through-Multiple-Views/
   github: yitech/contour-reconstruction
@@ -6,15 +13,6 @@
     Nominated by ASM 2020 innovative project, RD & Lead
   description: | # this will include new lines to allow paragraphs
     The camera pictures the wires from different sides.  The project goal is to reconstruct the 3D wires' trajectories though different wires' image information.  In this project, I not only work on the algorithm, but also participant the whole AOI process.  The problem is regarded as an "innovation" because it's not just a 3D reconstrucion problem.  The difficulties include <mark>multiple contours overlap in 2D</mark> and <mark>not observe 3D trajectories directly</mark>.  Eventually, we came out a sequence of brilliant skills to shoot these issues.
-
-- layout: top-middle
-  name: 6 Axis Robot Arm Control through LiDar
-  # link: github.com/sproogen
-  # github: sproogen/resume-theme
-  quote: >
-    RD
-  description: | # this will include new lines to allow paragraphs
-    The LiDar scan install on the Automatic Vehicle.  The vehicle aim to a target object which is placed a known position with unknown place error.  We are going to control the robot arm such that the robot arm can precisely pick and place the interested object in a correct way. We deal with this project through a bunch of point cloud processing.  Most interesting issue is to estimate the 3D rotation feature of the LiDar scan since it involves some solid math work.
     
 - layout: top-middle
   name: Agent-Based Job-Shop Scheduling Optimization
