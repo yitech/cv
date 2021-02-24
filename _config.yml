@@ -42,6 +42,7 @@ more_content: | # this will include new lines to allow paragraphs
    - image processing algorithms, including image matching, space/time domain analysis, morphology, ranging and depth, etc.
    - point cloud processing, including feature estimation, point cloud registration, surface reconstruction, 3D perception.
    - statistical optimization, including EM algorithm, Monto Carlo method, reinforcement learning, Bayesian optimization, genetic algorithm.
+   - computer graphics, including rasterization, digital geometry processing, camera projection, color radiometry.
    - data cleaning, data preprocessing, and data visualization.
 
 # Footer
